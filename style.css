@@ -1,0 +1,45 @@
+*{
+    font-family: 'Itim', cursive
+    
+}
+form h3{
+    margin-left: 11px;
+}
+form p{
+    padding-left:13px;
+}
+
+#firstsec{
+    background-color: #f2f2f2;
+    color:cadetblue;
+    font-size:x-large;
+    height:400px;
+    width:572px;
+}
+#discpercent{
+    border-radius: 50px;
+    margin-left:40px;
+    padding:7px;
+}
+#billamt{
+    border-radius: 50px;
+    margin-left:128px;
+    padding:7px;
+}
+#calculatebtn{
+    background:forestgreen;
+    padding:10px 20px;
+    border-radius: 20px;
+    color:white;
+    border-color:forestgreen;
+    font-size:x-large;
+    margin-left:18px;
+}
+#calculatebtn:hover{
+    background: burlywood;
+    border-color:burlywood;
+    font-size:x-large;
+}
+#labelfirst{
+    padding-left:20px;
+}
